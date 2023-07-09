@@ -22,7 +22,7 @@
 <div align="left">
 <h3 >Languages and Tools:</h3>
 <div>
-<img src="" title="" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="REACT" width="40" height="40"/>&nbsp;
@@ -37,9 +37,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain-wordmark.svg" title="VSCODE" alt="VSCODE" width="40" height="40"/>&nbsp;
 
 </div>
+&nbsp;
 </div>
 
-
+&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsonmv90&show_icons=true&locale=en&layout=compact" alt="wilsonmv90" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilsonmv90&show_icons=true&locale=en" alt="wilsonmv90" /></p>
